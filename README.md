@@ -27,3 +27,5 @@ Run the main.py file using a Python interpreter.
 Use the keyboard arrow keys (Up/Down) to control the right paddle and the 'w'/'s' keys to control the left paddle.
 Press the 'q' key to quit the game.
          "ENJOY"
+
+Demo Video- https://youtu.be/XgbVvyW_knU?si=5VYgaw1YL4ZbpuEb
